@@ -65,6 +65,7 @@ class Game extends Component {
         return (
             <div className="game">
                 <h1>Inside Sprint-27</h1>
+                <h4>Sanoc-7280</h4>
                 <div className="game-board">
                     <Board
                         squares={squares}
