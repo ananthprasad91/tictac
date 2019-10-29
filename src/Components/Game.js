@@ -64,6 +64,7 @@ class Game extends Component {
         }
         return (
             <div className="game">
+                <h1>Inside Defect Fixes</h1>
                 <div className="game-board">
                     <Board
                         squares={squares}
